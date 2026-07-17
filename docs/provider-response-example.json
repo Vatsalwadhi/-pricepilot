@@ -1,0 +1,13 @@
+{
+  "results": [
+    {
+      "product_name": "Amul Taaza Toned Milk",
+      "quantity": "1 L",
+      "selling_price": "72.00",
+      "delivery_charge": "15.00",
+      "total_price": "87.00",
+      "currency": "INR",
+      "product_url": "https://example.com/product/amul-taaza"
+    }
+  ]
+}
