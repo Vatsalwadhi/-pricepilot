@@ -46,3 +46,8 @@ db.sqlite3
 # OS
 .DS_Store
 Thumbs.db
+
+# Scraper Debug Files
+zepto_*.json
+zepto_*.html
+zepto_*.png
