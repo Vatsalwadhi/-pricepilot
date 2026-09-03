@@ -133,6 +133,10 @@ Home:
 
 ![Home](docs/screenshots/home.png)
 
+AI Cart Optimization Dashboard:
+
+![Optimization Dashboard](docs/screenshots/optimization-dashboard.png)
+
 Search results with unconfigured providers failing gracefully:
 
 ![Results provider errors](docs/screenshots/results-provider-errors.png)
